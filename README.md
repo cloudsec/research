@@ -1,5 +1,5 @@
 # research
-the core papers i researched about kernel security.
+The core papers i researched about kernel security.
 
 Exploit linux kernel slub overflow. 2010
 
