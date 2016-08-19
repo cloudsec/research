@@ -2,6 +2,7 @@
 the core papers i researched about kernel security.
 
 Exploit linux kernel slub overflow </a>Exploit linux kernel slub overflow. 2010
+
 Kernel stack overflow with sub %%esp, it's different with stack buffer overflow. 2010
 Exploit linux kernel stack buffer overflow on 2.6 kernels and slab overflow on 2.4 kernels. 2010
 How to Exploit Linux Kernel NULL Pointer Dereference. 2010
